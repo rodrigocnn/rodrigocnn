@@ -1,4 +1,5 @@
-## Olá! Eu sou Rodrigo César 🖐️
+## Olá! Eu sou Rodrigo César - Front End Developer🖐️
+
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-cesar-nunes/)
 
@@ -16,5 +17,5 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+Graduado em 2010 pela Universidade Salvador - UNIFACS. Trabalho com desenvolvimento web desde 2012 utilizando tecnologias como HTML, CSS3, Javascript e PHP . Possuo experiencia prática no desenvolvimento de aplicações web tradicionais utilizando PHP (Laravel ) e MYSQL, bem como no desenvolvimento de aplicações Single Page Application (SPA) utilizando React e outras tecnologias do seu ecossistema.
 
