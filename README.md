@@ -1,27 +1,69 @@
-## Olá! Eu sou Rodrigo César - Front End Developer🖐️
+## Olá ! Eu sou Rodrigo César - Desenvolvedor Front-end | Experiência em soluções Fullstack 🖐️
 
+Graduado em 2010 pela Universidade Salvador – UNIFACS, sou desenvolvedor front-end com foco na criação de aplicações web dinâmicas e experiências ricas para o usuário. Trabalho principalmente com TypeScript e React, além de tecnologias como HTML, CSS, CSS-in-JS (Styled Components) e Git para versionamento de código. Tenho experiência na implementação de testes unitários com Jest e React Testing Library, contribuindo para a manutenção de um código robusto e de alta qualidade.
+
+Além disso, possuo vivência no desenvolvimento de back-end utilizando Ruby on Rails, Django e Node.js, especialmente em projetos pessoais, freelas e integrações full-stack, o que complementa minha visão técnica e me permite colaborar de forma mais ampla no ciclo completo das aplicações.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-cesar-nunes/)
 
+## Projetos Destaques
 
-<div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigocnn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigocnn&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-</div>
+[<img style="margin-right: 16px;"  align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
 
-## Tecnologias que eu uso no meu dia
+**Imovyx** \
+Aplicação React focada na gestão imobiliária,\
+Linguagens & Tecnologias: `React`, `Typescript`, `Next.js`, `Tailwind`, `React Query`,\
+[Imovyx](https://github.com/rodrigocnn/imovyx)
+<br/>
 
-<div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+[<img style="margin-right: 16px;"  align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
+
+**Imovyx - Backend Rails** \
+API para Gestão de Aluguel de Imóveis desenvolvida com Ruby on Rails,\
+Linguagens & Tecnologias: `Ruby on Rails`, `RSpec`, `PostgreSQL`,\
+[Imovyx - backend](https://github.com/rodrigocnn/gestor-imob)
+
+[<img style="margin-right: 16px;"  align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
+
+**Medease** \
+Aplicação React focada Gestão para Clínicas de Saúde ,\
+Linguagens & Tecnologias: `React`, `Typescript`, `Next.js`, `Tailwind`, `React Query`,\
+[Medease](https://github.com/rodrigocnn/medease)
+<br/>
+
+[<img style="margin-right: 16px;"  align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
+
+**Medease- Backend Node** \
+API para Gestão para Clínicas de Saúde desenvolvida com Express.js,\
+Linguagens & Tecnologias: `Ruby on Rails`, `RSpec`, `PostgreSQL`,\
+[Medease - backend](https://github.com/rodrigocnn/gestor-imob)
+
+<br/>
+
+## Habilidades Técnicas:
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Styled Components](https://img.shields.io/badge/-Styled_Components-DB7093?style=flat&logo=styled-components&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
+![React Testing Library](https://img.shields.io/badge/-Testing_Library-E33332?style=flat&logo=testing-library&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI/CD-4285F4?style=flat&logo=azuredevops&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
 </div><br/>
-
-Graduado em 2010 pela Universidade Salvador - UNIFACS. Trabalho com desenvolvimento web desde 2012 utilizando tecnologias como HTML, CSS3, Javascript e PHP . Possuo experiencia prática no desenvolvimento de aplicações web tradicionais utilizando PHP (Laravel ) e MYSQL, bem como no desenvolvimento de aplicações Single Page Application (SPA) utilizando React e outras tecnologias do seu ecossistema.
-
