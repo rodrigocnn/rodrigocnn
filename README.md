@@ -10,7 +10,9 @@ Além disso, possuo vivência no desenvolvimento de back-end utilizando Ruby on 
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img style="margin-right: 16px;"  align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
+<a href="https://github.com/rodrigocnn/imovyx">
+  <img src="public/react.png" alt="Ruby on Rails" width="94" height="94" align="left" style="margin-right: 16px;" />
+</a>
 
 **Imovyx** \
 Aplicação React focada na gestão imobiliária,\
@@ -18,14 +20,18 @@ Linguagens & Tecnologias: `React`, `Typescript`, `Next.js`, `Tailwind`, `React Q
 [Imovyx](https://github.com/rodrigocnn/imovyx)
 <br/>
 
-[<img style="margin-right: 16px;"  align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
+<a href="https://github.com/rodrigocnn/gestor-imob">
+  <img src="public/rails.png" alt="Ruby on Rails" width="94" height="94" align="left" style="margin-right: 16px;" />
+</a>
 
 **Imovyx - Backend Rails** \
 API para Gestão de Aluguel de Imóveis desenvolvida com Ruby on Rails,\
 Linguagens & Tecnologias: `Ruby on Rails`, `RSpec`, `PostgreSQL`,\
 [Imovyx - backend](https://github.com/rodrigocnn/gestor-imob)
 
-[<img style="margin-right: 16px;"  align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
+<a href="https://github.com/rodrigocnn/medease">
+  <img src="public/react.png" alt="Medease" width="94" height="94" align="left" style="margin-right: 16px;" />
+</a>
 
 **Medease** \
 Aplicação React focada Gestão para Clínicas de Saúde ,\
@@ -33,12 +39,14 @@ Linguagens & Tecnologias: `React`, `Typescript`, `Next.js`, `Tailwind`, `React Q
 [Medease](https://github.com/rodrigocnn/medease)
 <br/>
 
-[<img style="margin-right: 16px;"  align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
+<a href="https://github.com/rodrigocnn/medease">
+  <img src="public/express.png" alt="Medease" width="94" height="94" align="left" style="margin-right: 16px;" />
+</a>
 
 **Medease- Backend Node** \
 API para Gestão para Clínicas de Saúde desenvolvida com Express.js,\
-Linguagens & Tecnologias: `Ruby on Rails`, `RSpec`, `PostgreSQL`,\
-[Medease - backend](https://github.com/rodrigocnn/gestor-imob)
+Linguagens & Tecnologias: `Express`, `Typescript`, `MYSQL`, `BCrypt`, `Prisma`,\
+[Medease - backend](https://github.com/rodrigocnn/medease-node)
 
 <br/>
 
