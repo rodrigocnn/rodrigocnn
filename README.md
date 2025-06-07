@@ -1,8 +1,41 @@
-## Olá ! Eu sou Rodrigo César - Desenvolvedor Front-end | Experiência em soluções Fullstack 🖐️
+## Olá ! Eu sou Rodrigo César - Desenvolvedor Fullstack 🖐️
 
-Graduado em 2010 pela Universidade Salvador – UNIFACS, sou desenvolvedor front-end com foco na criação de aplicações web dinâmicas e experiências ricas para o usuário. Trabalho principalmente com TypeScript e React, além de tecnologias como HTML, CSS, CSS-in-JS (Styled Components) e Git para versionamento de código. Tenho experiência na implementação de testes unitários com Jest e React Testing Library, contribuindo para a manutenção de um código robusto e de alta qualidade.
+Sou um desenvolvedor fullstack com foco em criar aplicações web robustas e eficientes, utilizando React e Ruby on Rails como principais tecnologias.
+Tenho mais de 10 anos de experiência em desenvolvimento web, atuando em diferentes etapas do ciclo de vida de aplicações modernas.
 
-Além disso, possuo vivência no desenvolvimento de back-end utilizando Ruby on Rails, Django e Node.js, especialmente em projetos pessoais, freelas e integrações full-stack, o que complementa minha visão técnica e me permite colaborar de forma mais ampla no ciclo completo das aplicações.
+Como desenvolvedor front-end, tive a oportunidade de contribuir em mais de 200 projetos de sites, e atualmente atuo no desenvolvimento e manutenção de Single Page Applications (SPAs) utilizando tecnologias como React, Angular (6+), TypeScript, JavaScript, HTML, CSS e Styled Components.
+
+No back-end, utilizo Ruby on Rails para criar tanto APIs escaláveis quanto aplicações web completas, explorando o melhor do ecossistema Rails — de Active Record a Hotwire, RSpec, Devise, Pundit e Sidekiq.
+
+Atualmente faço parte de uma equipe multidisciplinar que adota a metodologia Scrum, colaborando em entregas ágeis e de alto valor para o negócio.
+
+Além das habilidades técnicas, destaco minha capacidade de trabalhar em equipe e de comunicar-me de forma clara e eficaz. Essas habilidades são essenciais para colaborar eficientemente com colegas e stakeholders, tornando meu trabalho mais produtivo no dia a dia.
+
+Habilidades Técnicas:
+
+● React
+● Ruby on Rails
+● TypeScript
+● JavaScript
+● HTML/CSS
+● CSS-In-JS (Styled Components)
+● Jest
+● React Testing Library
+● Git/Github
+● Angular
+● Node (Express)
+● Figma
+● Python e Django
+● PHP e Laravel
+● CI/CD com Jenkins e Azure
+● MySQL
+
+Outras Habilidades:
+
+● Habilidades de comunicação clara e concisa.
+● Atitude independente e proativa na resolução de problemas.
+● Experiência em trabalho remoto em equipes que utilizam práticas ágeis.
+● Gosto por criar código bem projetado, testável e eficiente.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-cesar-nunes/)
 
