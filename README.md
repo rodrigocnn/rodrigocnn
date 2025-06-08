@@ -11,31 +11,31 @@ Atualmente faço parte de uma equipe multidisciplinar que adota a metodologia Sc
 
 Além das habilidades técnicas, destaco minha capacidade de trabalhar em equipe e de comunicar-me de forma clara e eficaz. Essas habilidades são essenciais para colaborar eficientemente com colegas e stakeholders, tornando meu trabalho mais produtivo no dia a dia.
 
-Habilidades Técnicas:
+**Habilidades Técnicas:**
 
-● React
-● Ruby on Rails
-● TypeScript
-● JavaScript
-● HTML/CSS
-● CSS-In-JS (Styled Components)
-● Jest
-● React Testing Library
-● Git/Github
-● Angular
-● Node (Express)
-● Figma
-● Python e Django
-● PHP e Laravel
-● CI/CD com Jenkins e Azure
-● MySQL
+- React
+- Ruby on Rails
+- TypeScript
+- JavaScript
+- HTML/CSS
+- CSS-In-JS (Styled Components)
+- Jest
+- React Testing Library
+- Git/Github
+- Angular
+- Node (Express)
+- Figma
+- Python e Django
+- PHP e Laravel
+- CI/CD com Jenkins e Azure
+- MySQL
 
-Outras Habilidades:
+**Outras Habilidades:**
 
-● Habilidades de comunicação clara e concisa.
-● Atitude independente e proativa na resolução de problemas.
-● Experiência em trabalho remoto em equipes que utilizam práticas ágeis.
-● Gosto por criar código bem projetado, testável e eficiente.
+- Habilidades de comunicação clara e concisa.
+- Atitude independente e proativa na resolução de problemas.
+- Experiência em trabalho remoto em equipes que utilizam práticas ágeis.
+- Gosto por criar código bem projetado, testável e eficiente.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-cesar-nunes/)
 
