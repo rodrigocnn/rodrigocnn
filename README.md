@@ -1,11 +1,11 @@
 ## Olá ! Eu sou Rodrigo César - Desenvolvedor Fullstack 🖐️
 
-Sou um desenvolvedor fullstack com foco em criar aplicações web robustas e eficientes, utilizando React e Ruby on Rails como principais tecnologias.
+Sou um desenvolvedor fullstack com foco em criar aplicações web robustas e eficientes, utilizando **React e Ruby** on Rails como principais tecnologias.
 Tenho mais de 10 anos de experiência em desenvolvimento web, atuando em diferentes etapas do ciclo de vida de aplicações modernas.
 
-Como desenvolvedor front-end, tive a oportunidade de contribuir em mais de 200 projetos de sites, e atualmente atuo no desenvolvimento e manutenção de Single Page Applications (SPAs) utilizando tecnologias como React, Angular (6+), TypeScript, JavaScript, HTML, CSS e Styled Components.
+Como desenvolvedor front-end, tive a oportunidade de contribuir em mais de 200 projetos de sites, e atualmente atuo no desenvolvimento e manutenção de Single Page Applications (SPAs) utilizando tecnologias como **React, Angular (6+), TypeScript, JavaScript, HTML, CSS e Styled Components.**
 
-No back-end, utilizo Ruby on Rails para criar tanto APIs escaláveis quanto aplicações web completas, explorando o melhor do ecossistema Rails — de Active Record a Hotwire, RSpec, Devise, Pundit e Sidekiq.
+No back-end, utilizo Ruby on Rails para criar tanto APIs escaláveis quanto aplicações web completas, explorando o melhor do ecossistema Rails — **de Active Record a Hotwire, RSpec, Devise, Pundit e Sidekiq**.
 
 Atualmente faço parte de uma equipe multidisciplinar que adota a metodologia Scrum, colaborando em entregas ágeis e de alto valor para o negócio.
 
