@@ -1,15 +1,18 @@
 ## Olá ! Eu sou Rodrigo César - Desenvolvedor Fullstack 🖐️
 
-Sou um desenvolvedor fullstack com foco em criar aplicações web robustas e eficientes, utilizando **React e Ruby on Rails** como principais tecnologias.
-Tenho mais de 10 anos de experiência em desenvolvimento web, atuando em diferentes etapas do ciclo de vida de aplicações modernas.
+Sou engenheiro de software com atuação predominante no front-end, mas com vivência em projetos full-stack ao longo da carreira.
 
-Como desenvolvedor front-end, tive a oportunidade de contribuir em mais de 200 projetos de sites, e atualmente atuo no desenvolvimento e manutenção de Single Page Applications (SPAs) utilizando tecnologias como **React, Angular (6+), TypeScript, JavaScript, HTML, CSS e Styled Components.**
+Com mais de 10 anos de experiência em desenvolvimento web, atuei principalmente como front-end, contribuindo para mais de 200 projetos de sites nos últimos anos. Em várias ocasiões, assumi a função de desenvolvedor full-stack, participando ativamente de todas as fases do ciclo de desenvolvimento, desde a concepção até a entrega final.
 
-No back-end, utilizo Ruby on Rails para criar tanto APIs escaláveis quanto aplicações web completas, explorando o melhor do ecossistema Rails — **de Active Record a Hotwire, RSpec, Devise, Pundit e Sidekiq**.
+Atualmente, faço parte de uma equipe multidisciplinar que adota a metodologia **Scrum**, onde meu foco principal tem sido o desenvolvimento e a manutenção de aplicações front-end utilizando **TypeScript**, **Angular** e **React**, além da implementação de testes unitários com **Jest** e **React Testing Library** para garantir a qualidade do código. Esses projetos têm como objetivo automatizar processos e aumentar a produtividade. Neles, contribuí com soluções que geraram impactos reais, como a redução de até 75% dos colaboradores envolvidos em determinados fluxos, por meio de sistemas mais eficientes e orientados à entrega de valor.
 
-Atualmente faço parte de uma equipe multidisciplinar que adota a metodologia Scrum, colaborando em entregas ágeis e de alto valor para o negócio.
+Minha stack principal nos últimos anos tem sido **React** e **TypeScript**, porém, ao longo da minha jornada, tive a oportunidade de trabalhar com outras tecnologias, como **PHP** (Laravel e CodeIgniter), **Node.js** e **WordPress** como CMS. Contudo, não me prendo a ferramentas específicas e estou sempre aberto a aprender novas tecnologias, pois acredito que a tecnologia deve servir ao negócio — e não o contrário.
 
-Além das habilidades técnicas, destaco minha capacidade de trabalhar em equipe e de comunicar-me de forma clara e eficaz. Essas habilidades são essenciais para colaborar eficientemente com colegas e stakeholders, tornando meu trabalho mais produtivo no dia a dia.
+Recentemente, tenho me aprofundado em **Ruby on Rails**, explorando o melhor do ecossistema Rails — de **Active Record** a **Hotwire**, **RSpec**, **Devise**, **Pundit** e **Sidekiq**.
+
+Além das habilidades técnicas, destaco minha capacidade de trabalhar em equipe e de comunicar-me de forma clara e eficaz. Essas competências são essenciais para colaborar com colegas e stakeholders, tornando meu trabalho mais produtivo e alinhado aos objetivos do negócio.
+
+Minha dedicação à excelência e minha habilidade em resolver problemas são fundamentais para garantir a alta qualidade do meu trabalho e superar desafios técnicos com sucesso.
 
 **Habilidades Técnicas:**
 
@@ -25,8 +28,8 @@ Além das habilidades técnicas, destaco minha capacidade de trabalhar em equipe
 - Angular
 - Node (Express)
 - Figma
-- Python e Django
 - PHP e Laravel
+- Python e Django
 - CI/CD com Jenkins e Azure
 - MySQL
 
@@ -36,8 +39,6 @@ Além das habilidades técnicas, destaco minha capacidade de trabalhar em equipe
 - Atitude independente e proativa na resolução de problemas.
 - Experiência em trabalho remoto em equipes que utilizam práticas ágeis.
 - Gosto por criar código bem projetado, testável e eficiente.
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-cesar-nunes/)
 
 ## Projetos Destaques
 
@@ -83,28 +84,5 @@ Linguagens & Tecnologias: `Express`, `Typescript`, `MYSQL`, `BCrypt`, `Prisma`,\
 
 <br/>
 
-## Habilidades Técnicas:
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Styled Components](https://img.shields.io/badge/-Styled_Components-DB7093?style=flat&logo=styled-components&logoColor=white)
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
-![React Testing Library](https://img.shields.io/badge/-Testing_Library-E33332?style=flat&logo=testing-library&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![CI/CD](https://img.shields.io/badge/-CI/CD-4285F4?style=flat&logo=azuredevops&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
 </div><br/>
+
