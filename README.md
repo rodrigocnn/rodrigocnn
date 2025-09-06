@@ -1,12 +1,16 @@
-Sou um **desenvolvedor Full-Stack JavaScript/Node.js** especializado em criar **aplicações web modernas e escaláveis**, combinando front-end reativo com back-end robusto. Minha stack principal nos últimos anos tem sido **React e TypeScript**, mas também tenho experiência com **Node.js, PHP (Laravel e CodeIgniter), Ruby on Rails** e WordPress como CMS. Não me prendo a ferramentas específicas e estou sempre aberto a aprender novas tecnologias, pois acredito que a **tecnologia deve servir ao negócio — e não o contrário**.
+Sou um **desenvolvedor Full-Stack JavaScript/Node.js** especializado em criar **aplicações web modernas, escaláveis e de alta performance**, combinando front-end reativo com back-end robusto. 
 
-Tenho forte compromisso com **código limpo, testável e eficiente**, aplicando boas práticas de arquitetura, design de software, APIs REST, autenticação JWT e integrações com serviços externos. Além disso, valorizo a **colaboração em equipes multidisciplinares**, comunicação clara e foco em resultados que gerem valor real para os negócios.
+Nos últimos anos, minha stack principal tem sido **React e TypeScript**. Também atuo com **Node.js (Express/NestJS)**, desenvolvendo **APIs REST**, implementando **autenticação JWT**, **cache com Redis** e **filas de mensageria (RabbitMQ/BullMQ)**. Tenho experiência com bancos de dados relacionais e não relacionais, como **PostgreSQL, MySQL e Prisma ORM**, garantindo persistência consistente e alta performance nas aplicações.
+
+Com mais de uma década de experiência em desenvolvimento web, inicialmente consolidei minha carreira atuando como **front-end**, contribuindo para **mais de 200 projetos**. Com o tempo, ampliei minha atuação para **desenvolvimento full-stack**, participando de diferentes fases do ciclo de desenvolvimento, desde a concepção até a entrega final. Além disso, já trabalhei com **PHP (Laravel e CodeIgniter)** e mantenho projetos pessoais com **Ruby on Rails**, explorando recursos avançados como **Active Record, RSpec, Devise, Pundit e Sidekiq**. O framework se alinha à minha abordagem de criar soluções elegantes, produtivas e sustentáveis ao longo do tempo, permitindo atuar em projetos legados ou novos com eficiência e qualidade.
+
+Tenho forte compromisso com **código limpo, testável e eficiente**, aplicando boas práticas de arquitetura e design de software, além de testes unitários e de integração com **Jest e React Testing Library**, e integração contínua com **CI/CD e Docker**. Valorizo a **colaboração em equipes multidisciplinares**, comunicação clara e foco em resultados que gerem **impacto real para os negócios**.
 
 #### Principais habilidades técnicas:
 - **Front-End:** React, Angular, TypeScript, JavaScript, HTML/CSS, Styled Components  
 - **Back-End:** Node.js (Express/NestJS), Python/Django, PHP/Laravel, Ruby on Rails  
 - **Banco de Dados:** PostgreSQL, MySQL, Prisma ORM  
-- **Testes:** Jest, React Testing Library  
+- **Testes:** Jest, React Testing Library, testes unitários e de integração  
 - **Infra & DevOps:** Git/GitHub, CI/CD, Docker  
 - **Design & Produtividade:** Figma, boas práticas de clean code e arquitetura  
 
@@ -18,3 +22,6 @@ Tenho forte compromisso com **código limpo, testável e eficiente**, aplicando 
 
 GitHub: [https://github.com/rodrigocnn](https://github.com/rodrigocnn)  
 Email: rodrigocnn@gmail.com
+
+
+
